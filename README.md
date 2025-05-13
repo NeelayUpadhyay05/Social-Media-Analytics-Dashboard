@@ -88,12 +88,14 @@ streamlit run Hackathon-Streamlit.py
 ### **Deployment**
 
 - The Streamlit app is deployed on Streamlit Cloud.  
-- 
+- https://social-media-analytics-dashboard-vqffhof9v2ng8v95s4gfrw.streamlit.app/
 
 ---
 
 ### **Screenshots & Dashboard Description**
+![Screenshot 2025-05-13 164504](https://github.com/user-attachments/assets/baace46b-728f-434f-9ea8-0a1649b96eec)
 
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/8c9846d9-45ec-414b-be72-12e2e43d2f88" />
 
 - The dashboard features tabs/sections for platform usage, demographics, content trends, behavioral analysis, and stakeholder-specific insights.
 - Interactive elements (dropdowns, sliders, filters) let users explore data by platform, category, time, and more.
