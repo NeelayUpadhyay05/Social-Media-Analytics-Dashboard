@@ -16,6 +16,12 @@ This project delivers an end-to-end analysis of global social media usage, engag
 
 ---
 
+### **Disclaimer**
+
+This project was developed with significant assistance from AI tools, as I was new to Streamlit at the time of the Hackathon. While the code was not written manually by me, I guided the app's development, structure, and design choices. This experience helped me understand how data dashboards are built, and I plan to create future projects independently as I continue learning.
+
+---
+
 ### **Objectives**
 
 - Extract actionable insights from a large, real-world social media dataset.
